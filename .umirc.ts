@@ -31,7 +31,7 @@ export default defineConfig({
     },
   ],
   // outputPath: 'build',
-  publicPath: './',
+  // publicPath: './',
   history: { type: 'hash' },
   npmClient: 'pnpm',
 });
