@@ -30,5 +30,8 @@ export default defineConfig({
       component: './Table',
     },
   ],
+  // outputPath: 'build',
+  publicPath: './',
+  history: { type: 'hash' },
   npmClient: 'pnpm',
 });
