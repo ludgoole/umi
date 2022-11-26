@@ -12,7 +12,7 @@ request<API.Result_PageInfo_UserInfo__>(
     // DELETE 删
     // PUT 改
     // GET 查
-    method: 'DELETE',
+    method: 'GET',
     // data: {
     //   name: '德福祥',
     //   size: 44
